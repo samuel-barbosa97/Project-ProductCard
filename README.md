@@ -1,9 +1,23 @@
-# UI - Product Card Responsive 👟
+<h1 align="center">
+  <img alt="UI" src="https://o.remove.bg/downloads/0e9cf9bc-5cc8-44c0-a6ad-84bc3376fd91/ui-removebg-preview.png" width="120px" />
+</h1>
 
-Trabalhando os conceitos de UI (User Interface), é apresentado o conceito de um catálogo de produto.
+<h3 align="center">
+  Product Card - UI/UX
+</h3>
 
-Utilizando HTML, CSS e o pós processador SCSS para formatção de tela web. De formato responsivo.
+<p align="center">Neste projeto é desenvolvido um card de produto utilizando os conceitos de UI/UX.</p>
 
-Preview:
+## 🚀 Tecnologias
 
-![produto](https://user-images.githubusercontent.com/89155684/131952183-82d732bf-44a8-4fda-97b8-88f4e6c23144.png)
+- 💡 HTML
+- ⚡ PHP 
+- 💾 Mamp
+
+## ✋🏻 Pré-requisitos
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
