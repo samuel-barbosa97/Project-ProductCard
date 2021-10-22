@@ -11,8 +11,8 @@
 ## 🚀 Tecnologias
 
 - 💡 HTML
-- ⚡ PHP 
-- 💾 Mamp
+- ⚡ CSS 
+- 🏗 Pós-processador SCSS
 
 ## ✋🏻 Pré-requisitos
 
