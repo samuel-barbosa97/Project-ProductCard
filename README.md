@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Shoe Card" src="https://www.pngwing.com/pt/free-png-dxkpn" width="120px" />
+  <img alt="Shoe Card" src="https://www.gratispng.com/png-kig21t/download.html" width="120px" />
 </h1>
 
 <h3 align="center">
