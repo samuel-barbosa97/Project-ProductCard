@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img alt="Shoe Card" src="https://www.gratispng.com/png-kig21t/download.html" width="120px" />
-</h1>
 
 <h3 align="center">
   Shoe Product Card
