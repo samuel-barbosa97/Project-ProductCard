@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img alt="UI" src="https://o.remove.bg/downloads/0e9cf9bc-5cc8-44c0-a6ad-84bc3376fd91/ui-removebg-preview.png" width="120px" />
+  <img alt="Shoe Card" src="https://logodownload.org/nike-logo/nike-logo-5/" width="120px" />
 </h1>
 
 <h3 align="center">
-  Product Card - UI/UX
+  Shoe Product Card
 </h3>
 
-<p align="center">Neste projeto é desenvolvido um card de produto utilizando os conceitos de UI/UX.</p>
+<p align="center">Neste projeto é desenvolvido um card de produto utilizando os conceitos de responsividade.</p>
 
 ## 🚀 Tecnologias
 
